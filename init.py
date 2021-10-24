@@ -1,3 +1,3 @@
 
-nuke.pluginAddPath('./pyton')
+nuke.pluginAddPath('./python')
 
